@@ -11,6 +11,11 @@
 //Daniel Byun
 //Alex Byun
 
+//child process가 먼저 실행될경우에도 출력결과는 같음
+
+//Daniel Byun
+//Alex Byun
+
 int main(int argc,char* argv[]){
     
     //child 프로세스 생성 
@@ -43,5 +48,6 @@ int main(int argc,char* argv[]){
      
     printf("\n");
     return 0;
+    
     
 }
