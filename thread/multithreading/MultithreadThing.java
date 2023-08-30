@@ -9,7 +9,6 @@ public class MultithreadThing extends Thread{
                  catch(InterruptedException e){
                        e.printStackTrace();
                  }
-
              }
       }
 }
